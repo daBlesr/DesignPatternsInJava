@@ -1,4 +1,4 @@
-package com.daBlesr.FactorPatternExample;
+package com.daBlesr.FactoryPatternExample;
 
 public class Order {
 

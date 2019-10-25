@@ -1,6 +1,6 @@
 package com.daBlesr;
 
-import com.daBlesr.FactorPatternExample.PizzaBusiness;
+import com.daBlesr.FactoryPatternExample.PizzaBusiness;
 
 public class Main {
 

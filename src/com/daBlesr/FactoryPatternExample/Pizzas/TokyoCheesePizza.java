@@ -1,9 +1,9 @@
-package com.daBlesr.FactorPatternExample.Pizzas;
+package com.daBlesr.FactoryPatternExample.Pizzas;
 
-import com.daBlesr.FactorPatternExample.Ingredient;
-import com.daBlesr.FactorPatternExample.Pizza;
-import com.daBlesr.FactorPatternExample.PizzaBusiness;
-import com.daBlesr.FactorPatternExample.PizzaStore;
+import com.daBlesr.FactoryPatternExample.Ingredient;
+import com.daBlesr.FactoryPatternExample.Pizza;
+import com.daBlesr.FactoryPatternExample.PizzaBusiness;
+import com.daBlesr.FactoryPatternExample.PizzaStore;
 
 public class TokyoCheesePizza extends Pizza {
 

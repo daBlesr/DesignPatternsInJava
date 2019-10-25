@@ -1,8 +1,8 @@
-package com.daBlesr.FactorPatternExample;
+package com.daBlesr.FactoryPatternExample;
 
 
-import com.daBlesr.FactorPatternExample.PizzaStores.TokyoStore;
-import com.daBlesr.FactorPatternExample.PizzaStores.UtrechtStore;
+import com.daBlesr.FactoryPatternExample.PizzaStores.TokyoStore;
+import com.daBlesr.FactoryPatternExample.PizzaStores.UtrechtStore;
 
 import java.util.Arrays;
 import java.util.stream.Collectors;

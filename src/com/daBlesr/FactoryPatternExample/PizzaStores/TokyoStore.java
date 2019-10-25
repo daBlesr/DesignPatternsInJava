@@ -1,10 +1,10 @@
-package com.daBlesr.FactorPatternExample.PizzaStores;
+package com.daBlesr.FactoryPatternExample.PizzaStores;
 
-import com.daBlesr.FactorPatternExample.Pizza;
-import com.daBlesr.FactorPatternExample.PizzaStore;
-import com.daBlesr.FactorPatternExample.Pizzas.TokyoCheesePizza;
-import com.daBlesr.FactorPatternExample.Pizzas.TokyoFishPizza;
-import com.daBlesr.FactorPatternExample.Pizzas.TokyoSalamiPizza;
+import com.daBlesr.FactoryPatternExample.Pizza;
+import com.daBlesr.FactoryPatternExample.PizzaStore;
+import com.daBlesr.FactoryPatternExample.Pizzas.TokyoCheesePizza;
+import com.daBlesr.FactoryPatternExample.Pizzas.TokyoFishPizza;
+import com.daBlesr.FactoryPatternExample.Pizzas.TokyoSalamiPizza;
 
 public class TokyoStore implements PizzaStore {
     @Override

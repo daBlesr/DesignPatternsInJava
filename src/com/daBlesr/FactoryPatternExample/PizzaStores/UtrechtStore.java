@@ -1,10 +1,10 @@
-package com.daBlesr.FactorPatternExample.PizzaStores;
+package com.daBlesr.FactoryPatternExample.PizzaStores;
 
-import com.daBlesr.FactorPatternExample.Pizza;
-import com.daBlesr.FactorPatternExample.PizzaStore;
-import com.daBlesr.FactorPatternExample.Pizzas.UtrechtCheesePizza;
-import com.daBlesr.FactorPatternExample.Pizzas.UtrechtFishPizza;
-import com.daBlesr.FactorPatternExample.Pizzas.UtrechtSalamiPizza;
+import com.daBlesr.FactoryPatternExample.Pizza;
+import com.daBlesr.FactoryPatternExample.PizzaStore;
+import com.daBlesr.FactoryPatternExample.Pizzas.UtrechtCheesePizza;
+import com.daBlesr.FactoryPatternExample.Pizzas.UtrechtFishPizza;
+import com.daBlesr.FactoryPatternExample.Pizzas.UtrechtSalamiPizza;
 
 public class UtrechtStore implements PizzaStore {
     @Override
